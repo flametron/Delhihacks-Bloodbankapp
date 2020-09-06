@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Mail
+Flask-Cors
+pyjwt
+numpy==1.19.0
+gunicorn==20.0.4
+requests
