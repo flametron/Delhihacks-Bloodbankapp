@@ -43,7 +43,7 @@ class _RequestPageExternalState extends State<RequestPageExternal> {
   void _sendRequest() async {
     Dio dio = Dio();
     FormData frm = FormData.fromMap({
-      "key": "c82ba6a6dd6c4ed1a00cde4909a0aa",
+      "key": "[REMOVED]",
       "location": "$_location",
       "bloodgroup": "$_group",
       "name": "$_name",
@@ -52,7 +52,7 @@ class _RequestPageExternalState extends State<RequestPageExternal> {
       "age": "$_age"
     });
     var response = await dio.post(
-        "https://blood-bank-qkfjvcvewq-ez.a.run.app/requestblood",
+        "https://[REMOVED]/requestblood",
         data: frm);
     print(response.statusCode);
     if (response.statusCode == 201) {
