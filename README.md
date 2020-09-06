@@ -1,5 +1,12 @@
 # Blood Bank - Delhi-Hack-1.0 
 
+## Sections of the Project
+
+The two sections of the project have been maintained in two separate branches of the repository, the two have been listed below, click on the branch name to see that branch.
+
+- [Frontend](https://github.com/flametron/Delhihacks-Bloodbankapp/tree/frontend)
+- [Backend](https://github.com/flametron/Delhihacks-Bloodbankapp/tree/backend)
+
 ## Current Scenario
 Usually in a real life scenario, if someone’s met with an accident and needs blood urgently, his/her family has to contact the nearby blood bank or the hospitals for the specific blood group but due to lack of communication and unforeseen conditions, either the hospital has a shortage of that blood or no amount of blood available and at this point of time it becomes very difficult for the recipient's family members to arrange blood for the recipient and if none of the family members have same blood group then that situation becomes very critical for the recipient. Some of the reports bring out these issues even better.
 
@@ -21,10 +28,3 @@ By making the Online Blood Bank management system we intend to bridge the gap be
 - Flask
 - Flutter/Dart
 - Maps API
-
-## Sections of the Project
-
-The two sections of the project have been maintained in two separate branches of the repository, the two have been listed below, click on the branch name to see that branch.
-
-- [Frontend](https://github.com/flametron/Delhihacks-Bloodbankapp/tree/frontend)
-- [Backend](https://github.com/flametron/Delhihacks-Bloodbankapp/tree/backend)
