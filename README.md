@@ -17,6 +17,14 @@ By making the Online Blood Bank management system we intend to bridge the gap be
 </p>
 
 ## Technologies Used
+
 - Flask
 - Flutter/Dart
 - Maps API
+
+## Sections of the Project
+
+The two sections of the project have been maintained in two separate branches of the repository, the two have been listed below, click on the branch name to see that branch.
+
+- [Frontend](https://github.com/flametron/Delhihacks-Bloodbankapp/tree/frontend)
+- [Backend](https://github.com/flametron/Delhihacks-Bloodbankapp/tree/backend)
